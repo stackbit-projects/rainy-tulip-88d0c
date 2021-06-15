@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About
 sections:
   - type: hero_section
     title: This Is A Big Hero Headline
