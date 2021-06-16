@@ -12,11 +12,6 @@
                 "label": "Contact",
                 "url": "/style-guide",
                 "style": "link"
-            },
-            {
-                "label": "Contact Us",
-                "url": "/contact",
-                "style": "primary"
             }
         ],
         "logo": "images/1.PNG"
