@@ -7,10 +7,7 @@ sections:
       We’re here to automate
       Financial and regulation 
       technology
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
