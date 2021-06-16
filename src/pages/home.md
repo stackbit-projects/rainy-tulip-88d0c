@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: HI WE’RE SAFESOFT
 seo:
   title: ''
   description: ''
