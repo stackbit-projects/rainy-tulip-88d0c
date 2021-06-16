@@ -8,9 +8,4 @@ seo:
   type: stackbit_page_meta
 template: page
 ---
-## Lorem ipsum
-
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+## We’re here to automate&#xA;Financial and regulation&#xA;technology&#xA;&#xA;
