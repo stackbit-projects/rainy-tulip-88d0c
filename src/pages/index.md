@@ -3,9 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: HI WE'RE SAFESOFT
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: HI WE'RE SAFESOFT
     actions:
       - label: Learn More
         url: /features
