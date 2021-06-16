@@ -14,7 +14,8 @@ sections:
     has_background: true
     background:
       background_color: blue
-      background_image: images/images.jfif
+      background_image: >-
+        images/62834077-teamwork-business-team-standing-hands-together-in-the-office-business-people-joining-hands-together-.jpg
       background_image_opacity: 15
       background_image_size: auto
       background_image_repeat: no-repeat
