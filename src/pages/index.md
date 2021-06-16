@@ -13,7 +13,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: white
+      background_color: gray
       background_image: >-
         images/62834077-teamwork-business-team-standing-hands-together-in-the-office-business-people-joining-hands-together-.jpg
       background_image_opacity: 15
