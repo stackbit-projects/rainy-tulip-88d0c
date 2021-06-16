@@ -2,7 +2,7 @@
 title: About
 sections:
   - type: hero_section
-    title: HI WE'RE
+    title: HI WE'RE SA
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
