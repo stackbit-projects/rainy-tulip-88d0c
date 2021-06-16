@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: HI WE'RE SAFESOFT
-    subtitle: HI WE'RE SAFESOFT
+    subtitle: We are
     actions:
       - label: Learn More
         url: /features
