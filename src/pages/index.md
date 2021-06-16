@@ -17,7 +17,7 @@ sections:
       background_image: images/images.jfif
       background_image_opacity: 15
       background_image_size: auto
-      background_image_repeat: repeat
+      background_image_repeat: no-repeat
   - type: features_section
     title: Features
     features:
